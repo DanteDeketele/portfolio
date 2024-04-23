@@ -11088,8 +11088,6 @@ pre {
   z-index: 9;
   visibility: hidden;
   opacity: 0;
-  -webkit-transition: all 0.1s;
-  transition: all 0.1s;
 }
 
 .img-wrapper .overlay .overlay-infos {
