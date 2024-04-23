@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 // Serve static files from the 'public' directory
-app.use(express.static(path.join(__dirname)));
+app.use(express.static(path.join(__dirname), "assets"));
 
 // Define a route for the homepage
 app.get('/', (req, res) => {
