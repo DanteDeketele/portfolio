@@ -11094,15 +11094,8 @@ pre {
 
 .img-wrapper .overlay .overlay-infos {
   position: absolute;
-  top: 0%;
+  top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  -webkit-transition: all 0.1s;
-  transition: all 0.1s;
-  -webkit-transition-delay: .1s;
-          transition-delay: .1s;
   color: #fff;
 }
 
