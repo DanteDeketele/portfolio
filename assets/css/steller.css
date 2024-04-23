@@ -160,13 +160,13 @@ sup {
 }
 
 a {
-  color: #ff7a57;
+  color: #8FCB9B;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #ff3d0b;
+  color: #6eaa7a;
   text-decoration: underline;
 }
 
@@ -1876,23 +1876,23 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #ffdad0;
+  background-color: #addfb7;
 }
 
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #ffbaa8;
+  border-color: #addfb7;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #ffc6b7;
+  background-color: #addfb7;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #ffc6b7;
+  background-color: #addfb7;
 }
 
 .table-secondary,
